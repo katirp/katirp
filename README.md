@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @katirp
-- 👀 I’m interested in C++ and Python.
-- 🌱 I’m currently learning Python.
+- 👀 I’m have experience in C++, Python, Javascript, HTML, and CSS
 - 💞️ I’m looking to collaborate on making an app.
 - 📫 How to reach me: email - katiradypentek@gmail.com and phone: (704) 763-1221
 
